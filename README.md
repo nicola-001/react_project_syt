@@ -40,4 +40,4 @@
 5. 用户登录接口文档：http://139.198.34.216:8230/doc.html
 
 
-前台尚医通挂号平台在线访问地址：http://syt.atguigu.cn/
+前台挂号平台在线访问地址：http://syt.atguigu.cn/
